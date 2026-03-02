@@ -7,4 +7,3 @@ Eu sou Davi Silva, um programador Front End, atualmente estou aprendendo e crian
 
 
 
-[![Davi Stats](https://github-readme-stats.vercel.app/api?username=Davi-Silva2001)](https://github.com/anuraghazra/github-readme-stats)
